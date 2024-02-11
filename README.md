@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarayugnd
-- 👀 I’m interested in Applied Math and its applications in Engineering (I'm a grad student!)
-- 🌱 I’m currently a grad students in AMATH @ UW, Seattle
+- 👀 I’m interested in Applied Math and its applications in solving engineering problems!
+- 🌱 I’m currently a grad/MS student in AMATH @ UW, Seattle
 - 💞️ I’m looking for internships/jobs!
 - 📫 How to reach me: sarayugundlpalli@gmail.com
 
